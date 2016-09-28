@@ -1,0 +1,11 @@
+.carousel-control .fa-chevron-left, 
+.carousel-control .fa-chevron-right {
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    z-index: 5;
+}
+
+h3, td {
+    text-align: center;
+}
